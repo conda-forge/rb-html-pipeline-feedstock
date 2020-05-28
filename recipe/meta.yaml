@@ -1,5 +1,5 @@
 {% set name = "html-pipeline" %}
-{% set version = "2.12.3" %}
+{% set version = "2.13.0" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-  sha256: e49fb5a562f3f7da31036d04ba3dc4ea4daa9fb1a92ed66558f7e8e9c118b1f4
+  sha256: 0667642a096bea56937edf5f67a072ae5543eb6cf333c7533be10a367eb25607
 
 build:
   noarch: generic
