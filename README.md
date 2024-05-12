@@ -5,7 +5,7 @@ Home: https://rubygems.org/gems/html-pipeline
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: GitHub HTML processing filters and utilities
 
